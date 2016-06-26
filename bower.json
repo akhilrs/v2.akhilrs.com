@@ -1,0 +1,22 @@
+{
+  "name": "v2.akhilrs.com",
+  "version": "2.0.0",
+  "authors": [
+    "akhilrs \"https://akhilrs.com\""
+  ],
+  "description": "V2",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "akhilrs.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "v2.akhilrs.com",
+  "version": "2.0.0",
+  "description": "v2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akhilrs/v2.akhilrs.com.git"
+  },
+  "keywords": [
+    "akhilrs.com"
+  ],
+  "author": "akhilrs \"https://akhilrs.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilrs/v2.akhilrs.com/issues"
+  },
+  "homepage": "https://github.com/akhilrs/v2.akhilrs.com#readme"
+}
