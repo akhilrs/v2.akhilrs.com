@@ -1,8 +1,8 @@
 module.exports = {
     entry: './web/src/App.js',
     output: {
-        path: path.resolve('./web'),
-        publicPath: './web/',
+        path: "./web/assets/js",
+        publicPath: "/assets/js/",
         filename: 'app.js'
     },
     module: {
