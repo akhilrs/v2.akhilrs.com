@@ -1,2 +1,5 @@
 node_modules
 **/**/assets/components/*
+__pycache__
+*.sqlite3
+*.pyc
