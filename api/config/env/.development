@@ -1,0 +1,17 @@
+# GENERAL
+APP_NAME=akhil.rs
+APP_DOMAIN=akhil.rs
+APP_ENV=development
+SECURE_HTTP=True
+TIME_ZONE=UTC
+DJANGO_SETTINGS_MODULE=akhil_rs.settings.development
+# STATIC_ROOT_DIR=/www
+
+# PostgreSQL Docker variables
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=meplinks
+POSTGRES_USER=meplinks
+POSTGRES_PASSWORD=meplinks
+PGDATA=/var/lib/postgresql/data
+POSTGRES_INITDB_ARGS="--data-checksums"

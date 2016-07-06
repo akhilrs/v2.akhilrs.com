@@ -13,7 +13,7 @@
   "keywords": [
     "akhilrs.com"
   ],
-  "author": "akhilrs \"https://akhilrs.com\"",
+  "author": "akhilrs \"https://akhil.rs\"",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/akhilrs/v2.akhilrs.com/issues"
@@ -24,6 +24,7 @@
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.0.11",
     "babel-preset-react": "^6.5.0",
+    "codacy-coverage": "^1.1.3",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
   },

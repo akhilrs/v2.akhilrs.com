@@ -1,0 +1,6 @@
+import os
+
+#: Cloudinary Config
+CLOUDINARY_CLOUD_NAME = os.environ.get('ARS_CLOUDINARY_CLOUD_NAME')
+CLOUDINARY_API_KEY = os.environ.get('ARS_CLOUDINARY_API_KEY')
+CLOUDINARY_API_SECRET = os.environ.get('ARS_CLOUDINARY_API_SECRET')

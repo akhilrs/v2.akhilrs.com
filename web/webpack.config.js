@@ -1,7 +1,7 @@
 module.exports = {
-    entry: './web/src/App.js',
+    entry: './src/App.js',
     output: {
-        path: "./web/assets/js",
+        path: "./assets/js",
         publicPath: "/assets/js/",
         filename: 'app.js'
     },
